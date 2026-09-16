@@ -1,0 +1,13 @@
+/build/
+/.vs/
+/.vscode/
+/out/
+/captures/
+particle_garden.cfg
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+*.exe
+*.pdb
+*.obj
